@@ -1,9 +1,9 @@
 # 517-rogers-helloworld
  
-#Kelly's Dog
+# Kelly's Dog
 
 ## Meet Koala
-### She is a small border collie named "Koala." The [SPCA](https://spcawake.org) named her Koala because she looked like a Koala when she was a puppy. ![Here is the first picture of her ever taken](images/Koala%20SPCA.jpg)
+### Kelly's dog is a small border collie named "Koala." The [SPCA](https://spcawake.org) named her Koala because she looked like a Koala when she was a puppy. ![Here is the first picture of her ever taken](images/Koala%20SPCA.jpg)
 
 ## Koala's Favorite Activities
 * Playing outside
